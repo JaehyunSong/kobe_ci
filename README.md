@@ -3,7 +3,7 @@
 * **講師:** [Song Jaehyun (宋 財泫)](https://www.jaysong.net)（関西大学総合情報学部）
 * **日時:** 2021年 9月 1, 2, 3, 13, 14日 (2〜4限目)
 * **教室:** フロンティア館 304教室
-* **シラバス:** <a href = "https://raw.githubusercontent.com/JaehyunSong/kobe_ci/master/Syllabus/Syllabus.pdf" target = "_blank" rel="noopener noreferrer">Link</a>
+* **シラバス:** [Link](https://raw.githubusercontent.com/JaehyunSong/kobe_ci/master/Syllabus/Syllabus.pdf)
 
 ## 資料
 
